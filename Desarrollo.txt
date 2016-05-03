@@ -1,1 +1,3 @@
-desarrollo
+
+
+echo " suma de 2 mas 2 igual a 4"
