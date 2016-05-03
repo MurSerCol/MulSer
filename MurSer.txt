@@ -1,2 +1,4 @@
 bin/initdb.sh -rootUser=root -rootPass=CENTOS
 <rootPass>
+
+HOLA SE AGREGO ESTE TEXTO
