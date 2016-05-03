@@ -1,0 +1,4 @@
+
+
+echo " suma de dos mas dos igual a cuatro"
+
