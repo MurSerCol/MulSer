@@ -1,4 +1,4 @@
 
 
 
-echo " suma de 2 mas 2 igual a 4"
+echo " suma de 2 mas 2 igual a 4 * 2 = 8 :D"
