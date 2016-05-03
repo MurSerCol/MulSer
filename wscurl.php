@@ -1,5 +1,5 @@
 <?php
-ini_set("display_erros",1);
+ini_set("display_erros",0);
 
 $fp = fsockopen("http://201.155.210.233/procesoad_nombre.asp", 80, $errno, $errstr, 30);
 if (!$fp)
